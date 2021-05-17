@@ -70,5 +70,5 @@ https://github.com/jalena-penaligon/little_shop_v2
 
 ## Ready to shop?
 The view with a list of all items for sale when you click on Shop:
-
+ 
 ![alt text](app/assets/images/items_index_page_image.png)
